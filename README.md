@@ -1,3 +1,4 @@
+
 # COVID-era prison population drops did not affect all racial groups equally
 
 Prison populations across the United States sharply declined during the first year of the COVID-19 pandemic. At first, this decline seems like a broader example of decarceration. But a decline in the total number of incarcerated people does not automatically mean that every group was equally affected. 
