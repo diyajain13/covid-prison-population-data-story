@@ -34,7 +34,9 @@ The first chart shows a clear decline in the total incarcerated population acros
 
 **Figure 2.** Racial composition of the counted White, Black, and Hispanic incarcerated population over time. Source: Dataset on Incarcerated Populations, `populations_states.csv`.
 
-The second chart shows that the prison population decline was not simply an even decrease across racial groups. The racial composition of the counted incarcerated population shifted over time. This is important because total population decline can hide unequal effects. If one group’s incarcerated population declines faster than another’s, the overall prison population can shrink while racial disparities remain the same or become more concentrated.
+The chart shows that the shares of White, Black, and Hispanic incarcerated populations did not move in identical ways during the period studied, which suggests that the overall population decline affected groups unevenly. 
+
+This is important because total population decline can hide unequal effects. If one group’s incarcerated population declines faster than another’s, the overall prison population can shrink while racial disparities remain the same or become more concentrated.
 
 This finding supports the larger point that decarceration is not automatically equal. Looking only at the total number of incarcerated people would miss how the composition of the remaining prison population changed.
 
@@ -42,7 +44,7 @@ This finding supports the larger point that decarceration is not automatically e
 
 This analysis has several limitations. First, the data can show changes in population counts, but it cannot prove exactly why those changes happened. Prison populations could change because of a variety of factors mentioned in Finding 1. 
 
-Second, this project focuses on state prison populations. It does not include all forms of incarceration or supervision, mentioned in About the data. Because of that, this project is not a complete picture of the criminal legal system during COVID-19.
+Second, this project focuses on state prison populations. It does not include all forms of incarceration or supervision, as mentioned in the "About the data" section. Because of that, this project is not a complete picture of the criminal legal system during COVID-19.
 
 Third, racial and ethnic categories are very simplified. State agencies may differ in how they define and report race and ethnicity, especially for Hispanic or Latino populations. This means that comparisons across states and groups should be interpreted carefully.
 
