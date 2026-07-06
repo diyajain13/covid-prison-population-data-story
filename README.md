@@ -60,7 +60,7 @@ A more complete and ethical story would require additional reporting. I would wa
 
 ## Conclusion
 
-The COVID-era decline in prison populations was significant, but the data suggests that the decline was not evenly distributed across racial groups. Looking only at the total population decrease would tell an incomplete story. The more important finding is that even during a period of decarceration, racial inequality in incarceration is still present.
+I was drawn to this dataset because it connects data analysis with questions about racial inequality and the criminal legal system. As a Data Science major with a strong interest in policy and justice, this project combines the two to examine underlying disparity behind statistics that could seem like progress at first glance. The COVID-era decline in prison populations was significant, but the data suggests that the decline was not evenly distributed across racial groups. Looking only at the total population decrease would tell an incomplete story. The more important finding is that even during a period of decarceration, racial inequality in incarceration is still present.
 
 ## Sources
 
