@@ -28,6 +28,7 @@ To create a national-level trend, I grouped the state-level data by date and sum
 **Figure 1.** Total state prison populations declined during the COVID-19 period. Source: Dataset on Incarcerated Populations, `populations_states.csv`.
 
 The first chart shows a clear decline in the total incarcerated population across the state-level data during the COVID-19 period. This suggests that the pandemic period was associated with a major shift in prison population levels. However, the chart alone does not explain why the population declined. A decrease could be because of various reasons such as releases, fewer admissions, parole decisions, public health policies, or other state-level decisions. So while the data is useful for identifying a pattern, it is not enough on its own to fully explain the causes behind that pattern. 
+Because monthly state reporting coverage varies, especially near the end of the dataset, the exact size of late-period changes should be interpreted cautiously.
 
 ## Finding 2: The racial composition of prison populations shifted
 
