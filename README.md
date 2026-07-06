@@ -23,7 +23,7 @@ To create a national-level trend, I grouped the state-level data by date and sum
 
 ## Finding 1: State prison populations fell sharply during the COVID-19 period
 
-![Total prison population over time](charts/chart1_total_prison_population(1).png)
+![Total prison population over time](charts/chart1_total_prison_population%20%281%29.png)
 
 **Figure 1.** Total state prison populations declined during the COVID-19 period. Source: Dataset on Incarcerated Populations, `populations_states.csv`.
 
@@ -31,7 +31,7 @@ The first chart shows a clear decline in the total incarcerated population acros
 
 ## Finding 2: The racial composition of prison populations shifted
 
-![Racial composition over time](charts/chart2_racial_composition(1).png)
+![Racial composition over time](charts/chart2_racial_composition%20%281%29.png)
 
 **Figure 2.** Racial composition of the counted White, Black, and Hispanic incarcerated population over time. Source: Dataset on Incarcerated Populations, `populations_states.csv`.
 
